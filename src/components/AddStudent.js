@@ -41,6 +41,7 @@ class AddStudent extends Component {
     return (
       <div>
         <Button
+          id = "addStudentButton"
           variant="outlined"
           color="primary"
           style={{ margin: 10 }}
